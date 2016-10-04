@@ -6,18 +6,18 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
+title: Andrew's Data
 description: 
 url: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: Andrew Jeong
 profile_img: 
 profile: 
 social:
-  github: 
+  github: AndrewJeong89
 
 # Build settings
 include: ["_categories"]
