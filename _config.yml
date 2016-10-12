@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: AndrewJeong89@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -7,8 +7,8 @@ google_analytics:
 
 # SEO settings
 title: Andrew Jeong Data Projects
-description: 
-url: ""
+description: Data Science Projects
+url: "AndrewJeong89.github.io"
 twitter_username: 
 default_img: 
 
