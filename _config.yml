@@ -15,9 +15,9 @@ default_img:
 # Profile settings
 name: Andrew Jeong
 profile_img: 
-profile: 
-social:
-  github: AndrewJeong89
+profile: Data Scientist
+social: https://www.linkedin.com/in/andrew-jeong-1a614317
+github: AndrewJeong89
 
 # Build settings
 include: ["_categories"]
